@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MyqRRmjo8maVJ13j1WjxpOEiaij5tvRZXntdNt2J1mU=",
+  "Hash": "mmQWODgnSIaMLG7NMv0aA/zLLJW2zCusgFKWLxd2yKE=",
   "Source": "Mamba_App",
   "BasePath": "_content/Mamba_App",
   "Mode": "Default",
@@ -37257,6 +37257,25 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Team\\360_F_527808860_3kZnKm3wGlQCAVJCIQ9hkBVhjRuTN1zK.jpg"
     },
     {
+      "Identity": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\Uploads\\Team\\Screenshot 2024-05-02 003825.png",
+      "SourceId": "Mamba_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\",
+      "BasePath": "_content/Mamba_App",
+      "RelativePath": "Uploads/Team/Screenshot 2024-05-02 003825.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Team\\Screenshot 2024-05-02 003825.png"
+    },
+    {
       "Identity": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\Uploads\\Team\\Screenshot 2024-05-04 225313.png",
       "SourceId": "Mamba_App",
       "SourceType": "Discovered",
@@ -37274,6 +37293,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Team\\Screenshot 2024-05-04 225313.png"
+    },
+    {
+      "Identity": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\Uploads\\Team\\Screenshot 2024-05-05 134045.png",
+      "SourceId": "Mamba_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\",
+      "BasePath": "_content/Mamba_App",
+      "RelativePath": "Uploads/Team/Screenshot 2024-05-05 134045.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Team\\Screenshot 2024-05-05 134045.png"
+    },
+    {
+      "Identity": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\Uploads\\Team\\Screenshot 2024-05-05 141257.png",
+      "SourceId": "Mamba_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\wwwroot\\",
+      "BasePath": "_content/Mamba_App",
+      "RelativePath": "Uploads/Team/Screenshot 2024-05-05 141257.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Team\\Screenshot 2024-05-05 141257.png"
     }
   ]
 }

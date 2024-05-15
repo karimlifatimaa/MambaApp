@@ -9,10 +9,11 @@ using System.Threading.Tasks;
 
 namespace Mamba.Data.DAL;
 
-public class AppDbContext : IdentityDbContext
+public class AppDbContext : IdentityDbContext<User>
 {
 	public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
 	{
 	}
 	public DbSet<Team> Teams { get; set; }
+	public DbSet<User> Users {  get; set; }
 }
