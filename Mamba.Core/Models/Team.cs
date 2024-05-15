@@ -19,6 +19,6 @@ public class Team:BaseEntity
     public string Position { get; set; } = null!;
     public string? ImageUrl { get; set; }
     [NotMapped]
-    public IFormFile formFile { get; set; }
+    public IFormFile? formFile { get; set; }
 
 }

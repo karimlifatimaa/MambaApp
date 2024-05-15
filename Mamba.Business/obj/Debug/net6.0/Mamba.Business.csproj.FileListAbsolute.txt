@@ -17,3 +17,23 @@ C:\Users\II novbe\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Busines
 C:\Users\II novbe\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\ref\Mamba.Business.dll
 C:\Users\II novbe\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Business.runtimeconfig.json
 C:\Users\II novbe\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Business.deps.json
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Business.runtimeconfig.json
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Business.dll
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Business.pdb
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.sourcelink.json
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Bu.5045C7B9.Up2Date
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.dll
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\refint\Mamba.Business.dll
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.pdb
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\Mamba.Business.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\MambaApp\Mamba.Business\obj\Debug\net6.0\ref\Mamba.Business.dll

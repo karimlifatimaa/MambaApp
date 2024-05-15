@@ -10919,19 +10919,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II novbe\\.nuget\\packages\\": {}
+    "C:\\Users\\User1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba_App\\Mamba_App.csproj",
+      "projectUniqueName": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Mamba_App.csproj",
       "projectName": "Mamba_App",
-      "projectPath": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba_App\\Mamba_App.csproj",
-      "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba_App\\obj\\",
+      "projectPath": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Mamba_App.csproj",
+      "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10945,8 +10945,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Business\\Mamba.Business.csproj": {
-              "projectPath": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Business\\Mamba.Business.csproj"
+            "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Business\\Mamba.Business.csproj": {
+              "projectPath": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Business\\Mamba.Business.csproj"
             }
           }
         }
@@ -10955,6 +10955,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -10995,7 +11000,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj": {}
+    "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj": {
+    "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj",
         "projectName": "Mamba.Core",
-        "projectPath": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj",
-        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\Desktop\\MambaApp\\Mamba.Core\\obj\\",
+        "projectPath": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Mamba.Core.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

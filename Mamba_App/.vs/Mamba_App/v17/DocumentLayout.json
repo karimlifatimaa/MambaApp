@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D55305C-5866-48D1-A479-B9ED367C379A}|..\\Mamba.Business\\Mamba.Business.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.business\\services\\concretes\\teamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757150C-8BE6-47A0-A0BF-0F12DEDAC9C7}|..\\Mamba.Data\\Mamba.Data.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757150C-8BE6-47A0-A0BF-0F12DEDAC9C7}|..\\Mamba.Data\\Mamba.Data.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.data\\repositoryconcretes\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EB6F7-4804-4070-916E-FF9B480F7E88}|..\\Mamba.Core\\Mamba.Core.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D55305C-5866-48D1-A479-B9ED367C379A}|..\\Mamba.Business\\Mamba.Business.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.business\\mamba.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EB6F7-4804-4070-916E-FF9B480F7E88}|..\\Mamba.Core\\Mamba.Core.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.core\\repositoryabstracts\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EB6F7-4804-4070-916E-FF9B480F7E88}|..\\Mamba.Core\\Mamba.Core.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\mamba_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:mamba_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757150C-8BE6-47A0-A0BF-0F12DEDAC9C7}|..\\Mamba.Data\\Mamba.Data.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EB6F7-4804-4070-916E-FF9B480F7E88}|..\\Mamba.Core\\Mamba.Core.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379473FB-E832-484B-8E23-44F7922ADD97}|Mamba_App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5757150C-8BE6-47A0-A0BF-0F12DEDAC9C7}|..\\Mamba.Data\\Mamba.Data.csproj|c:\\users\\user1\\onedrive\\desktop\\mambaapp\\mamba.data\\migrations\\20240515111749_createteamtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamServices.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Business\\Services\\Concretes\\TeamServices.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Business\\Services\\Concretes\\TeamServices.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Business\\Services\\Concretes\\TeamServices.cs",
+              "RelativeToolTip": "..\\Mamba.Business\\Services\\Concretes\\TeamServices.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAawDgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Mamba.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:20:49.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Data\\RepositoryConcretes\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\RepositoryConcretes\\TeamRepository.cs",
+              "RelativeToolTip": "..\\Mamba.Data\\RepositoryConcretes\\TeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:03.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:15:17.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:03.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAIMBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:04.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Models\\Team.cs",
+              "RelativeToolTip": "..\\Mamba.Core\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Team\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:27:24.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Team\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:05:42.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAADQBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:03.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T15:03:04.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAewJQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:03.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-15T15:03:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "RelativeToolTip": "..\\Mamba.Core\\RepositoryAbstracts\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:03.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240515111749_createTeamTable.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\Migrations\\20240515111749_createTeamTable.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Data\\Migrations\\20240515111749_createTeamTable.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\Migrations\\20240515111749_createTeamTable.cs",
+              "RelativeToolTip": "..\\Mamba.Data\\Migrations\\20240515111749_createTeamTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:03.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mamba_App.csproj",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Mamba_App.csproj",
+              "RelativeDocumentMoniker": "Mamba_App.csproj",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Mamba_App.csproj",
+              "RelativeToolTip": "Mamba_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T15:03:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mamba.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Business\\Mamba.Business.csproj",
+              "RelativeDocumentMoniker": "..\\Mamba.Business\\Mamba.Business.csproj",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Business\\Mamba.Business.csproj",
+              "RelativeToolTip": "..\\Mamba.Business\\Mamba.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T15:03:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Mamba.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:04.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Mamba.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Mamba.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Mamba.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:03:04.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\MambaApp\\Mamba_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:03:04.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

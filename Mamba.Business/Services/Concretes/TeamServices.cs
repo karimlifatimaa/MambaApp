@@ -46,16 +46,38 @@ public class TeamServices : ITeamServices
 
 	public Team GetTeam(Func<Team, bool>? func = null)
 	{
-		throw new NotImplementedException();
+		return _repository.Get(func);
 	}
 
 	public void RemoveTeam(int id)
 	{
-		throw new NotImplementedException();
+		var team = _repository.Get(x=>x.Id==id);
+		if (team == null) throw new NullReferenceException();
+		string path=_webHostEnvironment.WebRootPath+@"\Uploads\Team\"+ team.ImageUrl;
+		if (!File.Exists(path)) throw new FileNameNotFoundException("ImageUrl","File not found");
+		File.Delete(path);
+		_repository.Delete(team);
+		_repository.Commit();
 	}
 
 	public void Update(int id, Team team)
 	{
-		throw new NotImplementedException();
+		var oldteam=_repository.Get(x=>x.Id==id);
+		if(oldteam==null) throw new NullReferenceException();
+		if(team.formFile!=null)
+		{
+			if(!team.formFile.ContentType.Contains("image/")) throw new FileContentException("formFile","File content type error");
+			if (team.formFile.Length > 2097152) throw new FileSizeException("formFile", "File size error");
+
+			string path=_webHostEnvironment.WebRootPath + @"\Uploads\Team\" + team.formFile.FileName;
+			using(FileStream stream = new FileStream(path, FileMode.Create))
+			{
+				team.formFile.CopyTo(stream);
+			}
+			oldteam.ImageUrl=team.formFile.FileName;
+		}
+		oldteam.FullName=team.FullName;
+		oldteam.Position=team.Position;
+		_repository.Commit();
 	}
 }
